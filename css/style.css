@@ -1210,6 +1210,12 @@ footer .credits a {
   }
 }
 
+@media (max-width: 577px) {
+  .shrinker {
+    max-width:50%;
+  }
+}
+
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
     margin-top: 3rem;
