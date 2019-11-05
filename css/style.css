@@ -1204,7 +1204,7 @@ footer .credits a {
   }
 }
 
-@media (min-width: 577px) {
+@media (max-width: 577px) {
   .title-b {
     font-size: 1.2rem;
   }
