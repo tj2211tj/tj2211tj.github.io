@@ -1204,6 +1204,12 @@ footer .credits a {
   }
 }
 
+@media (min-width: 577px) {
+  .title-b {
+    font-size: 1.2rem;
+  }
+}
+
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
     margin-top: 3rem;
