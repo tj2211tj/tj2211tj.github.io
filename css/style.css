@@ -429,6 +429,7 @@ a:hover {
   color: #fff;
   text-transform: uppercase;
   font-weight: 600;
+  font-size:1.1rem;
 }
 
 .navbar-b.navbar-trans .nav-link:before,
