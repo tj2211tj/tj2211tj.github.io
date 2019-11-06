@@ -945,7 +945,7 @@ a:hover {
 	max-width:50%;
 	display: block;
 	margin-left: auto;
-  margin-right: auto;	
+	margin-right: auto;	
 }
 .blog-wrapper .article-title {
   font-size: 1.5rem;
@@ -1149,6 +1149,11 @@ footer .credits a {
 /*======================================
 //--//-->   BUTTON
 ======================================*/
+.shrinker{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
 
 .button {
   display: inline-block;
@@ -1213,6 +1218,9 @@ footer .credits a {
 @media (max-width: 577px) {
   .shrinker {
     max-width:50%;
+  }
+  .post-box img{
+	  max-width:80%
   }
 }
 
